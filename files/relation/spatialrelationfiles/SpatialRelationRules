@@ -1,0 +1,22 @@
+\S+/ns \S+/n \S+/signal
+\S+/signal \S+/ns
+\S+/signal \S+/ng
+\S+/signal \S+/n
+\S+/ns \S+/signal
+\S+/n \S+/signal
+\S+/ng \S+/signal
+\S+/b \S+/signal
+\S+/ns \S+/s
+\S+/n \S+/s
+\S+/ng \S+/s
+\S+/n \S+/f
+\S+/ns \S+/f
+\S+/ns \S+/s \S+/p \S+/b \S+/ng \S+/signal
+\S+/ns \S+/p \S+/ng \S+/signal
+\S+/ns \S+/p \S+/ns \S+/signal
+\S+/ns \S+/v \S+/ns \S+/signal
+\S+/ns \S+/v \S+/signal
+\S+/signal \S+/v
+\S+/signal \S+/vi
+\S+/signal \S+/v \S+/ns
+\S+/m \S+/n \S+/signal
